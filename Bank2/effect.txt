@@ -2,7 +2,7 @@
 
 NickName=UWSaber  /BankName
 
-Vol=15            /volume setting(0~50,0~10 is the basic vol ,above is the expanded, suggest  to set a middle number , for some wav files may do harm to the speaker )
+Vol=7            /volume setting(0~50,0~10 is the basic vol ,above is the expanded, suggest  to set a middle number , for some wav files may do harm to the speaker )
 
 CD=5             /clash time，the smaller number, the more sensitive
 CT=4             /clash strengh, the smaller number, the more sensitive
