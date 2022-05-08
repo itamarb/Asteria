@@ -1,0 +1,8 @@
+MODE=6   /闪点
+NP_BrightMax=255   /最大亮度
+NP_BrightMin=140   /最低亮度
+NP_DimBegin=1     /起始位置
+NP_DimEnd=130     /结束位置
+NP_DimLengthMax=10  /最大长度
+NP_DimLengthMin=2   /最小长度
+NP_DimPeriod=10     /周期

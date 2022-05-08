@@ -1,0 +1,10 @@
+mode=2 /局部翻转
+NP_FlipColor=5
+   /翻转方式12345
+NP_Tflip=75   /翻转时间
+NP_MaxFlipCount=2 /最大翻转次数
+NP_FlipLenth=50  /翻转长度
+NP_Cdrift=50   /色彩偏移
+NP_FlipRangeL=30  /翻转下界
+NP_FlipRangeH=130  /翻转上界
+NP_FlipFadeOutT=150 /淡出时间

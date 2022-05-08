@@ -1,0 +1,6 @@
+mode=2 /双色渐变条
+NP_GLength=260   /渐变区长度
+NP_Gspeed=0    /运动速度
+NP_Gdirection=0  /方向
+NP_GBeginPercent=10
+NP_GEndPercent=50

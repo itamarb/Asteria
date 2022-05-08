@@ -1,0 +1,6 @@
+mode=3  /波动
+NP_WaveLength=30  /波动长度
+NP_WaveSpeed=2000  /波动速度
+NP_MaxWavecount=0  /最大数量
+NP_BrightMax=255   /最大亮度
+NP_BrightMin=20    /最低亮度

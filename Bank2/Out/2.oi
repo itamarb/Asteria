@@ -1,0 +1,7 @@
+mode=2 /动态亮起
+NP_OITime=500 /亮起时间
+NP_OIDirection=0  /方向
+NP_OIBlockSize=2 /色块初始大小
+NP_OIBlockSpace=90 /色块初始间隔
+NP_OIBlockSpeed=7 /色块移动速度
+NP_OIRandom=5 /色块波动大小

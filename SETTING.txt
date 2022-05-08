@@ -1,0 +1,17 @@
+﻿//UltimateWorks 2.x Parameter setting
+
+Tpon=400          /Holding time for entering standby mode
+Tpoff=800         /Holding time for shut down
+Tout=10          /Holding time for blade out
+Tin=400           /Holding time for blade in
+TLcolor=200       /Time of color switch when out
+Ts_switch=400      /Holding time for bankswitch
+Tautoin=0     /Auto power off time,0 means never auto power off
+Tautooff=120000   /Auto shut down time in standby mode. O means never auto shut down
+Tdouble=300       /the double press time interval of mute and BGM mode
+
+ColorSwitchT=150  /Fade time when colorswitch
+
+OneClickOn=0  /1 means directly ignition from power off
+
+DevName=UWSaber

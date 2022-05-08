@@ -1,0 +1,3 @@
+mode=6 /闪点
+NP_Tspark=5  /闪点时间
+NP_SparkDensity=3   /闪点密度

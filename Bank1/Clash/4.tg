@@ -1,0 +1,6 @@
+mode=4 /扩散
+NP_SpeardMode=1 /扩散方式，单边双边
+NP_SpeardLength=300  /扩散总长
+NP_SpeardSpeed=1800  /扩散速度
+NP_SpeardLocation=65  /扩散起点
+NP_Cdrift=120  /色彩偏移

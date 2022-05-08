@@ -1,0 +1,7 @@
+mode=5 /随机波动
+NP_WaveLength=25  /波动长度上限
+NP_WaveSpeed=1800   /波动速度上限
+NP_WaveCycle=0    /波动循环次数，0为持续
+NP_Wavecount=50   /最大同时可出现波动区数量
+NP_BrightMax=255  /最大亮度
+NP_BrightMin=30   /最低亮度

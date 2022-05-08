@@ -1,0 +1,8 @@
+Mode=9  //火焰效果
+FLAME_SPEED=200  //火焰速度
+FLAME_COLDDOWN=20  //冷却速度
+FLAME_AVG_LENGTH=15 //平均长度
+FLAME_RANGE_LENGTH=10 //变化范围
+FLAME_AVG_LIGHT=160  //平均亮度
+FLAME_RANGE_LIGHT=80  //亮度范围
+FLAME_SWING_RATE=50   //火焰速度与挥舞的相关关系 

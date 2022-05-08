@@ -1,0 +1,8 @@
+mode=3 /流星
+NP_CometMode=1   /随机或指定
+NP_CometType=1   /单向或双向
+NP_CometLength=20 /流星大小
+NP_CometRange=130  /流星消失范围
+NP_CometSpeed=1000  /流星速度
+NP_CometLocation=10  /流星出发位置
+NP_Cdrift=255   /色彩偏移

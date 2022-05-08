@@ -1,0 +1,7 @@
+mode=1 /翻转
+NP_FlipColor=1
+   /翻转方式12345
+NP_Tflip=50     /翻转时间
+NP_MaxFlipCount=2 /翻转次数
+NP_Cdrift=10   /色彩偏移
+NP_FlipFadeOutT=100 /淡出时间
