@@ -1,9 +1,0 @@
-mode=3 /流星
-NP_OIDirection=0      /方向
-NP_OITIME=150         /运行时间
-NP_OIBLOCKSIZE=15     /流星大小
-NP_OIBLOCKCOLORR=255  /红色值
-NP_OIBLOCKCOLORG=255  /绿色值
-NP_OIBLOCKCOLORB=255  /蓝色值
-NP_OIBLOCKRATE=100  /流星全亮区占比
-NP_OIMixRate=100    /流星混色占比
