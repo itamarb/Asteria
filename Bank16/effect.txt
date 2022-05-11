@@ -1,0 +1,51 @@
+﻿//Warning: please do bit set parameter to exceed limits, or saber might malfunction.(For 1.080)
+
+NickName=UWSaber  /BankName
+
+Vol=7            /volume setting(0~50,0~10 is the basic vol ,above is the expanded, suggest  to set a middle number , for some wav files may do harm to the speaker )
+
+CD=5             /clash time，the smaller number, the more sensitive
+CT=4             /clash strengh, the smaller number, the more sensitive
+
+SwingHUMLimit=70   /Hum Volume when Smoothswing actived
+SwingMaxium=150   /When the Volume rise to MAX
+SwingActive=50    /the min acitve angle
+SwingThreshold_H=2200  /max smoothswing active level
+
+SwingThreshold_L=10  /min smoothswing active level
+SwingRange1=20    /smoothswing range1
+SwingRange2=30    /smoothswing range2
+
+
+AccMode=1          /AS mode
+Accent1Active=600  /when the accentswing step1 actived
+Accent1Target=10   /accentswing step1 shift range
+Accent1Atte=10     /accentswing step1 delay
+Accent1Maximum=900  /accentswing step1 max level
+
+Accent2Active=1200  /when the accentswing step2 actived
+Accent2Target=-20   /accentswing step2 shift range
+Accent2Atte=1000     /accentswing step2 delay
+
+
+StabThreshold=1000    /speed of stab
+StabWindow=100        /time of stab
+
+Tlockuphold=1000     /press to hold the Lockup
+ADrag=130   /Drag range, the angle of blade and the ceiling
+
+Out_Delay=300     /time interval between Out and Hum
+LBright=180       /Bank Bright Control,255max
+
+ybirdSwingOn=1       /HybirdSwing Enabel
+MT=500               /HybirdSwing Threshold
+
+SwingOutOn=1          /SwingOut Enable
+SwingOutThre=500      /SwingOut Threshold
+StabOutOn=0           /StabOut Enable
+BankSwitchOut=0       /igition directly after bankswitch.wav played
+
+GestrueOnOffS1Thre=800  /Twist stage Threshold 1
+GestrueOnOffS2Thre=800  /Twist stage Threshold 2
+GestureBankSwThre=700   /Rolling to bankswitch Threshold
+GestureColorSwThre=700  /Rolling to colorswitch Threshold
