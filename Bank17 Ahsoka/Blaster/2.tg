@@ -1,0 +1,9 @@
+mode=2 /�ֲ���ת
+NP_FlipColor=1
+   /��ת��ʽ12345
+NP_Tflip=60   /��תʱ��
+NP_MaxFlipCount=3 /���ת����
+NP_FlipLenth=25  /��ת����
+NP_Cdrift=60   /ɫ��ƫ��
+NP_FlipRangeL=30    /��ת�½�
+NP_FlipRangeH=130  /��ת�Ͻ�
