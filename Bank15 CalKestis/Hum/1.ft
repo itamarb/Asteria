@@ -1,4 +1,4 @@
 mode=1  /����
-NP_Tbreath=100  /��������
+NP_Tbreath=50  /��������
 NP_BrightMax=255  /�������
-NP_BrightMin=80   /�������
+NP_BrightMin=150   /�������
