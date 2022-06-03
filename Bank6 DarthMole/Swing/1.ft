@@ -1,4 +1,0 @@
-mode=1  /呼吸
-NP_Tbreath=300  /呼吸周期
-NP_BrightMax=255  /最高亮度
-NP_BrightMin=40   /最低亮度
