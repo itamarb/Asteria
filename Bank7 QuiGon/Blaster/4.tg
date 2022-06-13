@@ -1,0 +1,6 @@
+mode=4 /Spread
+NP_SpeardMode=1 /Spread mode, single side or double side
+NP_SpeardLength=220  /Length of spread
+NP_SpeardSpeed=1000  /Speed of spread
+NP_SpeardLocation=60  /Start poiont of spread
+NP_Cdrift=120  /Colour Drift
