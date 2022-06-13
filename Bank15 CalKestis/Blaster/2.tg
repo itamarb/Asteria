@@ -1,0 +1,10 @@
+mode=2 /part Flip
+NP_FlipColor=5
+   /Flip mode 12345
+NP_Tflip=75   /Time of flip
+NP_MaxFlipCount=2 /Max flip count
+NP_FlipLenth=35  /Length of flip
+NP_Cdrift=130   /Colour drift
+NP_FlipRangeL=30  /Down range of flip 
+NP_FlipRangeH=130  /Up range of flip
+NP_FlipFadeOutT=150 /Time to Fade Out
