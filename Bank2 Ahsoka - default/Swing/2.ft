@@ -1,0 +1,5 @@
+mode=2  /Flicker
+NP_Tflicker=10  /Period of flicker
+NP_FlickerDensity=10  /Density of Flicker
+NP_BrightMax=255   /Max brightness
+NP_BrightMin=100   /Min brightness

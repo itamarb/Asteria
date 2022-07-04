@@ -1,0 +1,7 @@
+mode=1 /Flip
+NP_FlipColor=1
+   /Flip mode12345
+NP_Tflip=50     /Time of flip
+NP_MaxFlipCount=0 /Max Flipcount
+
+NP_Cdrift=10   /Colour drift
